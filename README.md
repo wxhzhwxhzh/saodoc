@@ -1,7 +1,6 @@
-我理解你需要一份基于这些操作指令的 `README.md` 文件，用于说明如何搭建和使用这个 Docusaurus 项目。下面是为你准备的完整 `README.md` 内容：
 
-```markdown
 # My Website
+>Docusaurus 官方文档 https://docusaurus.io/zh-CN/docs
 
 这是一个使用 **Docusaurus** 构建的现代化静态网站/技术文档项目。
 
@@ -93,7 +92,7 @@ npm run deploy
 
 - **Docusaurus 官方文档**: [https://docusaurus.io/](https://docusaurus.io/)
 - **GitHub 仓库**: [https://github.com/facebook/docusaurus](https://github.com/facebook/docusaurus)
-```
+
 
 ### 总结
 这份 `README.md` 包含了：

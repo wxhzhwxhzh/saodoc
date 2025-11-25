@@ -22,7 +22,8 @@ const config = {
   // Set the production url of your site here
   url: 'https://your-docusaurus-site.example.com',
   // Set the /<baseUrl>/ pathname under which your site is served
-  // 对于 GitHub pages 部署，通常是 '/<projectName>/'  baseUrl: '/saodoc/',
+  // For GitHub pages deployment, it is often '/<projectName>/'
+  baseUrl: '/saodoc/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -83,7 +84,7 @@ const config = {
       },
        
       navbar: {
-        title: 'My Site',
+        title: 'SaoDoc Site',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
