@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunksaodoc=globalThis.webpackChunksaodoc||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/saodoc/blog","blogTitle":"Blog","authorsListPath":"/saodoc/blog/authors"}')}}]);
