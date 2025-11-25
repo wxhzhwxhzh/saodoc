@@ -4,7 +4,7 @@ title: First Blog Post-----555
 authors: [slorber, yangshun]
 tags: [hola, docusaurus]
 ---
-
+<!-- truncate -->
 # Docusaurus 入门使用教程
 
 ## 什么是 Docusaurus？
