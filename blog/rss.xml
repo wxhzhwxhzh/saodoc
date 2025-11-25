@@ -4,7 +4,7 @@
         <title>My Site Blog</title>
         <link>https://your-docusaurus-site.example.com/saodoc/blog</link>
         <description>My Site Blog</description>
-        <lastBuildDate>Tue, 25 Nov 2025 09:09:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Nov 2025 16:05:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[First Blog Post-----555]]></title>
             <link>https://your-docusaurus-site.example.com/saodoc/blog/new/first-blog-post3</link>
             <guid>https://your-docusaurus-site.example.com/saodoc/blog/new/first-blog-post3</guid>
-            <pubDate>Tue, 25 Nov 2025 09:09:37 GMT</pubDate>
+            <pubDate>Tue, 25 Nov 2025 16:05:05 GMT</pubDate>
             <description><![CDATA[什么是 Docusaurus？]]></description>
             <content:encoded><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="什么是-docusaurus">什么是 Docusaurus？<a href="https://your-docusaurus-site.example.com/saodoc/blog/new/first-blog-post3#%E4%BB%80%E4%B9%88%E6%98%AF-docusaurus" class="hash-link" aria-label="Direct link to 什么是 Docusaurus？" title="Direct link to 什么是 Docusaurus？" translate="no">​</a></h2>
 <p>Docusaurus 是由 Facebook（Meta）开源的一个现代化静态网站生成器，专门用于构建文档网站。它基于 React 构建，提供了开箱即用的功能，让你能够快速创建美观、易于维护的文档站点。</p>
